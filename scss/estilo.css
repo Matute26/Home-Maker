@@ -1,1 +1,6 @@
-/*# sourceMappingURL=estilo.css.map */
+header {
+  background-color: grey;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}/*# sourceMappingURL=estilo.css.map */
