@@ -1,6 +1,22 @@
 header {
-  background-color: grey;
+  background-color: rgba(128, 128, 128, 0.37);
   display: flex;
   align-items: center;
   justify-content: space-between;
+}
+header h1 {
+  font-size: 3rem;
+}
+header li {
+  -webkit-text-decoration-line: none;
+          text-decoration-line: none;
+  list-style-type: none;
+  display: flex;
+  display: inline-block;
+  font-size: 20px;
+}
+
+
+header {
+  color: red;
 }/*# sourceMappingURL=estilo.css.map */
