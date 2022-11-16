@@ -38,3 +38,9 @@
     margin-bottom: 5rem;
     
 }
+@media (min-width: 530px) and (max-width:1024px) {
+    .mainContent {
+        width: 530px;
+        height:20rem;
+    }
+}

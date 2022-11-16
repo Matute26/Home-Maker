@@ -23,3 +23,11 @@ body {
     margin-bottom: 6rem;
     width: 550px;
 }
+
+@media (min-width: 410px) and (max-width:1024px) {
+    .col {
+        background-color: white;
+        width: 420px;
+
+    }
+}
