@@ -1,4 +1,5 @@
 .footerLinks {
+  height: 12rem;
   background-color: rgba(1, 0, 15, 0.692);
 }
 .footerLinks ul {
@@ -8,6 +9,17 @@
   text-decoration-line: none;
   margin: 0;
   padding: 0;
+}
+.footerLinks ul li {
+  list-style: none;
+}
+.footerLinks ul li a {
+  text-decoration: none;
+  color: white;
+}
+.footerLinks ul li a:hover {
+  color: rgba(0, 255, 187, 0.583);
+  transition: 0.5s;
 }
 
 .header .navbar {
@@ -30,6 +42,10 @@
 .header .navbar #navbarNav:hover {
   font-size: 1.2rem;
   transition: 0.5s;
+}
+
+.fondoPantalla {
+  width: 100%;
 }
 
 .mainContent {
@@ -75,6 +91,11 @@
 }
 .mainContent .ofertas {
   background-color: rgba(0, 127, 25, 0.483);
+}
+
+.mainContentProductos {
+  text-align: center;
+  margin-top: 20rem;
 }
 
 body {
