@@ -1,0 +1,89 @@
+[33mcommit 661e21dd2a968c72ad7446fbc394e320deb1aa88[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Matias <matias_medina_1@hotmail.com>
+Date:   Tue Nov 22 14:18:31 2022 -0300
+
+    modificacion de cards grid
+
+[33mcommit 9221a596f56c9dd6167bbe63ddc3e19c797bcfec[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Matias <matias_medina_1@hotmail.com>
+Date:   Wed Nov 16 02:15:47 2022 -0300
+
+    coloque meta datos
+
+[33mcommit 1272d394dcd7b3eb2a4dd69adf57fafcab66101f[m
+Author: Matias <matias_medina_1@hotmail.com>
+Date:   Wed Nov 16 00:59:52 2022 -0300
+
+    productos modificado
+
+[33mcommit 3260679115476552036ae46b399b507f3a66276b[m
+Author: Matias <matias_medina_1@hotmail.com>
+Date:   Tue Nov 15 23:53:41 2022 -0300
+
+    agregue carrousel a Productos
+
+[33mcommit f7c4a36bc8bbc454baa6437cd3bcabfb2880011b[m
+Author: Matias <matias_medina_1@hotmail.com>
+Date:   Tue Nov 15 00:42:28 2022 -0300
+
+    se modifico contactanos
+
+[33mcommit 0fa36aaabfe29e372fb6689139c90985bb06ee18[m
+Author: Matias <matias_medina_1@hotmail.com>
+Date:   Mon Nov 14 23:42:57 2022 -0300
+
+    modificacion de texto en quienes somos
+
+[33mcommit 2c88f32318d62b6286736e358a492ae50e67d4a0[m
+Author: Matias <matias_medina_1@hotmail.com>
+Date:   Mon Nov 14 01:10:02 2022 -0300
+
+    formulario en contactanos
+
+[33mcommit 222958902139e6abd8f3916cab4cde4aebbd9e25[m
+Author: Matias <matias_medina_1@hotmail.com>
+Date:   Mon Nov 14 00:57:07 2022 -0300
+
+    Pagina Quienes Somos
+
+[33mcommit f876e92acb0b1563aaccb28f7573762d18352312[m
+Author: Matias <matias_medina_1@hotmail.com>
+Date:   Mon Nov 14 00:40:13 2022 -0300
+
+    modifique el footer
+
+[33mcommit c436d293901830b1a1aa0f5dfedfd5f2a4ca1b22[m
+Author: Matias <matias_medina_1@hotmail.com>
+Date:   Sun Nov 13 18:53:41 2022 -0300
+
+    agregue cards, con texto
+
+[33mcommit bf98f11e5a7ca15327495217bcc66d9affdb378b[m
+Author: Matias <matias_medina_1@hotmail.com>
+Date:   Sun Nov 13 01:00:58 2022 -0300
+
+    Secciones principales creadas y algunas clases
+
+[33mcommit 445b40e9a836fe6280d60a95ee1fe142978d2742[m
+Author: Matias <matias_medina_1@hotmail.com>
+Date:   Sun Nov 13 00:36:37 2022 -0300
+
+    Descripcion de cada pagina en Main
+
+[33mcommit 5535659fdf32b6c7c97e86c04c9839ce545cae20[m
+Author: Matias <matias_medina_1@hotmail.com>
+Date:   Sat Nov 12 23:23:12 2022 -0300
+
+    Linkeamos todas las paginas y puse las rutas de linkeado
+
+[33mcommit 12978a9dc47481f5d812507d811bca2151824e5e[m
+Author: Matias <matias_medina_1@hotmail.com>
+Date:   Sat Nov 12 22:42:37 2022 -0300
+
+    Creamos enlaces de footer y para navegar entre paginas sin linkear
+
+[33mcommit 39661fa6cc8910784e0fc8596e3a514e089248f6[m
+Author: Matias <matias_medina_1@hotmail.com>
+Date:   Sat Nov 12 22:20:56 2022 -0300
+
+    Cree archivos css y scss junto con la carpeta de pages

@@ -41,7 +41,6 @@
   font-size: 1.1rem;
   position: relative;
   margin-left: 14rem;
-  border: 1.5px;
 }
 .header .navbar #navbarNav .nav-link {
   color: black;
@@ -52,6 +51,7 @@
 }
 
 .fondoPantalla {
+  height: 10rem;
   width: 100%;
 }
 
@@ -72,6 +72,7 @@
 
 .muestraProductos {
   margin-top: 5em;
+  margin-right: 0px;
 }
 
 .card-img-top {
@@ -81,15 +82,17 @@
 
 .card {
   height: 500px;
-  width: 300px;
+  width: 100px;
   margin-top: 50px;
   margin-left: 5px !important;
   margin-right: 5px !important;
   margin-bottom: 15px;
 }
 .card .card-body {
-  width: 500px;
-  padding: 0, 0 !important;
+  height: 30px;
+  width: auto;
+  margin: 0% !important;
+  padding: 0 !important;
 }
 
 .mainContent .texto {
@@ -121,6 +124,34 @@
     height: 20rem;
   }
 }
+.card-text {
+  margin-top: 3rem;
+}
+
+.card1 {
+  grid-area: card1;
+}
+
+.card2 {
+  grid-area: card2;
+}
+
+.card3 {
+  grid-area: card3;
+}
+
+.card4 {
+  grid-area: card4;
+}
+
+.card5 {
+  grid-area: card5;
+}
+
+.card6 {
+  grid-area: card6;
+}
+
 body {
   margin: 0;
   padding: 0;
