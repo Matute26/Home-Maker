@@ -1,4 +1,4 @@
-
+//  |Home |Quienes somos | Contact us | Productos
 .header .navbar {
     display: block !important;
     z-index: 997;
@@ -8,13 +8,18 @@
     left: 0;
     right: 0;
     background-color: transparent !important;
-
+    .navbar-nav{
+        margin-right: 5%;
+    }
     #navbarNav {
         color: black !important;
         font-size: 1.1rem;
         position: relative;
-        margin-left: 16rem;
+        margin-left: 14rem;
         border: 1.5px;
+        .nav-link{
+            color: black;
+        }
         &:hover {
             font-size: 1.2rem;
             transition: 0.5s;

@@ -7,11 +7,12 @@
   text-decoration: none;
   text-decoration-style: none;
   text-decoration-line: none;
-  margin: 0;
+  margin-top: 2rem;
   padding: 0;
 }
 .footerLinks ul li {
   list-style: none;
+  margin-top: 10px;
 }
 .footerLinks ul li a {
   text-decoration: none;
@@ -32,12 +33,18 @@
   right: 0;
   background-color: transparent !important;
 }
+.header .navbar .navbar-nav {
+  margin-right: 5%;
+}
 .header .navbar #navbarNav {
   color: black !important;
   font-size: 1.1rem;
   position: relative;
-  margin-left: 16rem;
+  margin-left: 14rem;
   border: 1.5px;
+}
+.header .navbar #navbarNav .nav-link {
+  color: black;
 }
 .header .navbar #navbarNav:hover {
   font-size: 1.2rem;
@@ -55,8 +62,8 @@
 }
 
 .carouselFondo {
-  height: 720px;
-  width: 1024px;
+  height: auto;
+  width: 100%;
 }
 
 .carousel-item {
@@ -68,16 +75,21 @@
 }
 
 .card-img-top {
-  height: 260px;
-  width: 286px;
+  height: 40%;
+  width: 100%;
 }
 
 .card {
   height: 500px;
   width: 300px;
   margin-top: 50px;
-  margin-left: 120px !important;
+  margin-left: 5px !important;
+  margin-right: 5px !important;
   margin-bottom: 15px;
+}
+.card .card-body {
+  width: 500px;
+  padding: 0, 0 !important;
 }
 
 .mainContent .texto {
@@ -103,6 +115,12 @@
   margin-bottom: 5rem;
 }
 
+@media (min-width: 530px) and (max-width: 1024px) {
+  .mainContent {
+    width: 530px;
+    height: 20rem;
+  }
+}
 body {
   margin: 0;
   padding: 0;

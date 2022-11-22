@@ -2,15 +2,21 @@
     margin-top: 5em;
 }
 .card-img-top {
-    height: 260px;
-    width: 286px;
+    height: 40%;
+    width: 100%;
 }
 .card {
     height: 500px;
     width: 300px;
     margin-top: 50px;
-    margin-left: 120px !important;
+    margin-left: 5px !important;
+    margin-right: 5px !important;
     margin-bottom: 15px;
+    
+    .card-body {
+        width: 500px;
+        padding: 0 , 0 !important;
+    }
 }
 
 .mainContent {
