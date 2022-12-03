@@ -36,22 +36,33 @@
 .header .navbar .navbar-nav {
   margin-right: 5%;
 }
+.header .navbar .navbar-brand {
+  color: black;
+  font-weight: 500;
+}
+.header .navbar .navbar-brand:hover {
+  font-size: 1.2rem;
+  transition: 0.5s;
+  font-weight: 800;
+}
 .header .navbar #navbarNav {
   color: black !important;
   font-size: 1.1rem;
   position: relative;
   margin-left: 14rem;
 }
-.header .navbar #navbarNav .nav-link {
+.header .navbar #navbarNav .nav-item {
   color: black;
+  font-weight: 500;
 }
-.header .navbar #navbarNav:hover {
+.header .navbar #navbarNav .nav-item:hover {
   font-size: 1.2rem;
   transition: 0.5s;
+  font-weight: 800;
 }
 
 .fondoPantalla {
-  height: 10rem;
+  height: 39rem;
   width: 100%;
 }
 
@@ -128,28 +139,26 @@
   margin-top: 3rem;
 }
 
-.card1 {
-  grid-area: card1;
+.cardItem {
+  height: auto;
+  margin: 16px;
 }
 
-.card2 {
-  grid-area: card2;
+.card {
+  margin: 2px;
+  width: auto;
 }
 
-.card3 {
-  grid-area: card3;
+.mainContentProductos {
+  width: auto;
+  margin-left: 6rem;
+  margin-right: 6rem;
+  margin-bottom: 6rem;
 }
 
-.card4 {
-  grid-area: card4;
-}
-
-.card5 {
-  grid-area: card5;
-}
-
-.card6 {
-  grid-area: card6;
+.card-body {
+  margin-top: 1.5rem;
+  margin-bottom: 3rem;
 }
 
 body {

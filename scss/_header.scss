@@ -11,26 +11,37 @@
     .navbar-nav{
         margin-right: 5%;
     }
+    .navbar-brand{
+        color: black;
+        font-weight: 500;
+        &:hover {
+            font-size: 1.2rem;
+            transition: 0.5s;
+            font-weight:800;
+        }
+
+
+    }
     #navbarNav {
         color: black !important;
         font-size: 1.1rem;
         position: relative;
         margin-left: 14rem;
         
-        .nav-link{
+        .nav-item{
             color: black;
-        }
+            font-weight: 500;
+        
         &:hover {
             font-size: 1.2rem;
             transition: 0.5s;
-            
-        
-
+            font-weight:800;
+        }
         }
     }
 }
 
 .fondoPantalla {
-    height: 10rem;
+    height: 39rem;
     width: 100%;
 }
